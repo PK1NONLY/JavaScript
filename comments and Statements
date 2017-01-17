@@ -1,0 +1,21 @@
+<html>
+<head>
+</head>
+<body>
+
+<script type = "text/javascript">
+
+//comment goes here
+
+/*
+this is comment
+go buy stuff on ebay
+*/
+
+document.write("i love ham");
+document.write(" and i love bacon too");
+
+</script>
+
+</body>
+</html>
